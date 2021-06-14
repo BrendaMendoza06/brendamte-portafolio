@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="es">
+	
+<head>
+		<title>brenda.mte</title>
+		<link rel="shortcut icon" href="Editorial/favicon.ico" type="image/x-icon">
+		<link rel="icon" href="Editorial/favicon.ico" type="image/x-icon">
+		<meta charset="utf-8">
+</head>
+	
+<body>
+	<header>
+		<nav><a href="#"><img src="elementos/editorial.png" width="1920"></a></nav>
+	</header>
+	
+	<main> 
+		<section class="trabajo_editorial"> 
+			<div class="texto"> <h3> </h3> </div>
+			<div class="imagenes">
+				<img src="Editorial/El princito y La principesa.jpg" width="500px">
+				<img src="Editorial/MuckUp.ElPrincipito.jpg" width="500px">
+				<img src="Editorial/MockUp.ElFantasmaCanterville.jpg" width="500px">
+				<img src="Editorial/Interiores-(Mockup).jpg" width="500px">
+				<img src="Editorial/A4_Magazine_Mockup.jpg" width="500px">
+				<img src="Editorial/ImprentaMadero.jpg" width="500px"> </div>
+		</section>
+	</main>
+	
+</body>
+</html>
