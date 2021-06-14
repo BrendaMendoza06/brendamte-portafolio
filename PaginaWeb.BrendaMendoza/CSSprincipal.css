@@ -1,0 +1,126 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing: border-box;
+}
+
+body{
+	font-family:'Gill Sans';
+	}
+
+
+.principal{margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	background-size: cover;
+	background-attachment: fixed;
+	position:relative;
+	}
+
+.conocenos{
+	padding: 60px 0;
+	width: 90%;
+	max-width: 1000px;
+	margin:auto;
+	overflow: hidden;
+	}
+
+.titulo{
+	color: #0E3D3A;
+	font-size: 20px;
+	text-align: left;
+	margin-bottom: 20px;
+	}
+
+/*Header*/
+
+header{
+	width: 100%;
+	height: 700px;
+	background-image: url("elementos/Pagina principal.png");
+	background-attachment: fixed;
+	background-position: center;
+	background-size: cover;
+	position: relative;
+	overflow: hidden;
+	color:white;
+	text-align: center
+	}
+
+nav{text-align: right;
+	padding:30px 50px 10px 0 ;
+	}
+
+nav> a{
+	color:#FFFFFF;
+	font-weight: 300;
+	text-decoration: none;
+	margin-right: 10px;
+	}
+
+nav> a:hover{
+	text-decoration: overline
+	}
+
+/*Conocenos*/
+.conocenos{
+	z-index: 1;
+	width: 900px;
+	height: 700px;
+	padding: 20px 20px;
+	font-size: 15px;
+	line-height: 1.5;
+	background:#FFFFFF;
+	text-align: justify;
+	overflow: hidden;
+	padding: 100px 0;
+}
+
+.conocenos img{
+	width: 310px;
+	border-radius: 6px;
+	float: left;
+	margin-right: 20px;
+}
+
+/*footer*/
+
+footer{
+	background: #959595;
+	padding: 60px 0 30px 0;
+	margin: auto;
+	overflow: hidden;
+}
+
+.pie{
+	display: flex;
+	width: 90%;
+	justify-content: space-evenly;
+	margin: auto;
+	padding-bottom: 50px;
+	border-bottom: 1px solid #E6E6E6;
+}
+
+.foo{
+	text-align:center;
+}
+
+.foo h4{
+	border-bottom: 3px solid #0E3D3A;
+	padding-bottom: 5px;
+	margin-bottom: 10px;
+}
+
+.foo p{
+	padding-bottom: 5px;
+	margin-bottom: 10px;
+}
+
+.foo h3{
+	text-align: center;
+	font-size: 24px;
+	margin: 20px 0 0 0;
+	color:#4F4F4F ;
+}
+
+

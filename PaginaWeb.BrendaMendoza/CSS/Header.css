@@ -1,0 +1,64 @@
+@charset "UTF-8";
+/* CSS Document */
+
+/*Header*/
+
+header{
+	width: 100%;
+	height: 600px;
+	position: relative;
+	}
+
+nav{text-align: right;
+	padding:30px 50px 10px 0 ;
+	}
+
+nav> a{
+	color:#FFFFFF;
+	font-weight: 300;
+	text-decoration: none;
+	margin-right: 10px;
+	}
+
+nav> a:hover{
+	text-decoration: overline
+	}
+
+
+/*Conocenos*/
+
+.conocenos{
+	display: flex;
+	justify-content: space-evenly;
+	}
+
+.presentacion{
+	width: 48%;
+	}
+
+.textos{
+	width: 48%
+	}
+
+
+
+.presentacion{padding: 70px 0;
+	width: 90%;
+	max-width: 1000px;
+	margin:auto;
+	overflow: hidden;
+	}
+
+
+
+nav> a{color: black;
+	font-weight: 200;
+	text-decoration: none;
+	font-size: 25px;
+	margin-right: 15px;
+	text-decoration:none
+	}
+
+.titulo{
+	}
+
